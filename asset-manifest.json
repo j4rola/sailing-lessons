@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sailing-lessons/static/css/main.95ecbcc4.chunk.css",
+    "main.js": "/sailing-lessons/static/js/main.3b11d25a.chunk.js",
+    "main.js.map": "/sailing-lessons/static/js/main.3b11d25a.chunk.js.map",
+    "runtime-main.js": "/sailing-lessons/static/js/runtime-main.70858384.js",
+    "runtime-main.js.map": "/sailing-lessons/static/js/runtime-main.70858384.js.map",
+    "static/js/2.50606f1c.chunk.js": "/sailing-lessons/static/js/2.50606f1c.chunk.js",
+    "static/js/2.50606f1c.chunk.js.map": "/sailing-lessons/static/js/2.50606f1c.chunk.js.map",
+    "index.html": "/sailing-lessons/index.html",
+    "static/css/main.95ecbcc4.chunk.css.map": "/sailing-lessons/static/css/main.95ecbcc4.chunk.css.map",
+    "static/js/2.50606f1c.chunk.js.LICENSE.txt": "/sailing-lessons/static/js/2.50606f1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70858384.js",
+    "static/js/2.50606f1c.chunk.js",
+    "static/css/main.95ecbcc4.chunk.css",
+    "static/js/main.3b11d25a.chunk.js"
+  ]
+}
